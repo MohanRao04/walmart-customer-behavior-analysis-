@@ -1,0 +1,40 @@
+🌟Walmart Sales Data Internship — Week 1 Story…….
+
+This week, my main focus was on **understanding the business problem** we are trying to solve. 
+First, I started by asking myself the big question: 
+
+"What do we want to understand from this data?" 
+
+👉Based on my observations, we want to study customer buying behavior at Walmart — like 
+which products sell the most, which cities bring more revenue, whether customers are happy 
+(ratings), and if Walmart members spend more than regular customers. 
+Next, I thought from the stakeholders' point of view — 
+
+Who will use these insights? 
+
+👉Store managers, marketing teams, and customer experience managers. 
+I imagined what they might want to know, such as: 
+  • Why are sales increasing or decreasing? 
+  • Which products or cities are performing best? 
+  • Where should Walmart invest more? 
+  • How to improve customer satisfaction? 
+
+After that, I defined the goals and KPIs clearly. 
+The business goals are to: 
+  • Increase total revenue 
+  • Improve customer satisfaction (ratings) 
+  • Find top and bottom performers in cities and products 
+  • Understand member vs non-member spending
+
+The KPIs I set to track progress are: 
+  • Total Revenue 
+  • Average Customer Rating 
+  • Best and Least Performing Cities 
+  • Top-Selling Product Line 
+  • Member vs Non-Member Spend Comparison 
+
+Finally, I framed smart hypotheses — these are assumptions we'll check with data later: 
+  • Revenue might be dropping in some cities. 
+  • Members may spend more than non-members. 
+  • Fashion accessories could be the most profitable. 
+  • Higher ratings might lead to more sales. 
